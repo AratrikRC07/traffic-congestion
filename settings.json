@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ALAG.C": "cpp"
+    },
+    "cmake.configureOnOpen": true
+}
